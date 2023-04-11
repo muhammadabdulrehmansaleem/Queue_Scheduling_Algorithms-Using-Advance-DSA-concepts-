@@ -1,0 +1,40 @@
+﻿  Schedular.cpp
+E:\5TH SEMESTER\DSA\Lab4_DSA\Lab4_DSA\Queue.h(28,30): warning C4661: 'void Queue<Process>::reSize(int)': no suitable definition provided for explicit template instantiation request
+E:\5TH SEMESTER\DSA\Lab4_DSA\Lab4_DSA\Queue.h(12,7): message : see declaration of 'Queue<Process>::reSize'
+E:\5TH SEMESTER\DSA\Lab4_DSA\Lab4_DSA\Queue.h(28,30): warning C4661: 'Queue<Process>::Queue(const Queue<Process> &)': no suitable definition provided for explicit template instantiation request
+E:\5TH SEMESTER\DSA\Lab4_DSA\Lab4_DSA\Queue.h(16,2): message : see declaration of 'Queue<Process>::Queue'
+E:\5TH SEMESTER\DSA\Lab4_DSA\Lab4_DSA\Queue.h(28,30): warning C4661: 'Queue<Process>::Queue(int)': no suitable definition provided for explicit template instantiation request
+E:\5TH SEMESTER\DSA\Lab4_DSA\Lab4_DSA\Queue.h(14,2): message : see declaration of 'Queue<Process>::Queue'
+E:\5TH SEMESTER\DSA\Lab4_DSA\Lab4_DSA\Queue.h(28,30): warning C4661: 'Queue<Process>::~Queue(void)': no suitable definition provided for explicit template instantiation request
+E:\5TH SEMESTER\DSA\Lab4_DSA\Lab4_DSA\Queue.h(15,3): message : see declaration of 'Queue<Process>::~Queue'
+E:\5TH SEMESTER\DSA\Lab4_DSA\Lab4_DSA\Queue.h(28,30): warning C4661: 'Queue<Process> Queue<Process>::operator =(const Queue<Process> &)': no suitable definition provided for explicit template instantiation request
+E:\5TH SEMESTER\DSA\Lab4_DSA\Lab4_DSA\Queue.h(17,11): message : see declaration of 'Queue<Process>::operator ='
+E:\5TH SEMESTER\DSA\Lab4_DSA\Lab4_DSA\Queue.h(28,30): warning C4661: 'void Queue<Process>::enqueue(T)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Process
+          ]
+E:\5TH SEMESTER\DSA\Lab4_DSA\Lab4_DSA\Queue.h(18,7): message : see declaration of 'Queue<Process>::enqueue'
+E:\5TH SEMESTER\DSA\Lab4_DSA\Lab4_DSA\Queue.h(28,30): warning C4661: 'T Queue<T>::dequeue(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Process
+          ]
+E:\5TH SEMESTER\DSA\Lab4_DSA\Lab4_DSA\Queue.h(19,4): message : see declaration of 'Queue<Process>::dequeue'
+E:\5TH SEMESTER\DSA\Lab4_DSA\Lab4_DSA\Queue.h(28,30): warning C4661: 'T Queue<T>::getElementAtFront(void)': no suitable definition provided for explicit template instantiation request
+          with
+          [
+              T=Process
+          ]
+E:\5TH SEMESTER\DSA\Lab4_DSA\Lab4_DSA\Queue.h(20,4): message : see declaration of 'Queue<Process>::getElementAtFront'
+E:\5TH SEMESTER\DSA\Lab4_DSA\Lab4_DSA\Queue.h(28,30): warning C4661: 'bool Queue<Process>::isEmpty(void)': no suitable definition provided for explicit template instantiation request
+E:\5TH SEMESTER\DSA\Lab4_DSA\Lab4_DSA\Queue.h(21,7): message : see declaration of 'Queue<Process>::isEmpty'
+E:\5TH SEMESTER\DSA\Lab4_DSA\Lab4_DSA\Queue.h(28,30): warning C4661: 'bool Queue<Process>::isFull(void)': no suitable definition provided for explicit template instantiation request
+E:\5TH SEMESTER\DSA\Lab4_DSA\Lab4_DSA\Queue.h(22,7): message : see declaration of 'Queue<Process>::isFull'
+E:\5TH SEMESTER\DSA\Lab4_DSA\Lab4_DSA\Queue.h(28,30): warning C4661: 'int Queue<Process>::getCapacity(void)': no suitable definition provided for explicit template instantiation request
+E:\5TH SEMESTER\DSA\Lab4_DSA\Lab4_DSA\Queue.h(23,6): message : see declaration of 'Queue<Process>::getCapacity'
+E:\5TH SEMESTER\DSA\Lab4_DSA\Lab4_DSA\Queue.h(28,30): warning C4661: 'int Queue<Process>::getNoOfElements(void)': no suitable definition provided for explicit template instantiation request
+E:\5TH SEMESTER\DSA\Lab4_DSA\Lab4_DSA\Queue.h(24,6): message : see declaration of 'Queue<Process>::getNoOfElements'
+E:\5TH SEMESTER\DSA\Lab4_DSA\Lab4_DSA\Queue.h(28,30): warning C4661: 'void Queue<Process>::print(void)': no suitable definition provided for explicit template instantiation request
+E:\5TH SEMESTER\DSA\Lab4_DSA\Lab4_DSA\Queue.h(25,7): message : see declaration of 'Queue<Process>::print'
+  Lab4_DSA.vcxproj -> E:\5TH SEMESTER\DSA\Lab4_DSA\x64\Debug\Lab4_DSA.exe
